@@ -31,6 +31,6 @@ Projedeki amacımız çeşitli kaynaklarda bulunan aynı bilgileri bir araya top
 
 ### Repository
 * [https://github.com/ozturkberkay/Zemberek-Python-Examples](https://github.com/ozturkberkay/Zemberek-Python-Examples)
-* * [https://github.com/gaetangate/text-summarizer/tree/master/text_summarizer](https://github.com/gaetangate/text-summarizer/tree/master/text_summarizer)
-* * [https://holwech.github.io/blog/Automatic-news-scraper/](https://holwech.github.io/blog/Automatic-news-scraper/)
+* [https://github.com/gaetangate/text-summarizer/tree/master/text_summarizer](https://github.com/gaetangate/text-summarizer/tree/master/text_summarizer)
+* [https://holwech.github.io/blog/Automatic-news-scraper/](https://holwech.github.io/blog/Automatic-news-scraper/)
 [https://github.com/holwech/NewsScraper](https://github.com/holwech/NewsScraper)
