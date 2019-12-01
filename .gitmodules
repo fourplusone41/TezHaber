@@ -1,0 +1,9 @@
+[submodule "TezHaber-Scraper"]
+	path = TezHaber-Scraper
+	url = https://github.com/fourplusone41/TezHaber-Scraper.git
+[submodule "turkish-text-summarizer"]
+	path = turkish-text-summarizer
+	url = https://github.com/fourplusone41/turkish-text-summarizer
+[submodule "TezHaber-Core"]
+	path = TezHaber-Core
+	url = https://github.com/fourplusone41/TezHaber-Core.git
