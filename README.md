@@ -56,5 +56,6 @@ GPL-3.0
 
 ### kullandığımız açık kaynak kodları
 * [zemberek-nlp](https://github.com/ahmetaa/zemberek-nlp): Apache-2.0
-* [text-summarizer9](https://github.com/gaetangate/text-summarizer): GPL-3.0
+* [text-summarizer](https://github.com/gaetangate/text-summarizer): GPL-3.0
 * [gensim](https://github.com/RaRe-Technologies/gensim): LGPL-2.1
+* [Zemberek-Python-Examples](https://github.com/ozturkberkay/Zemberek-Python-Examples): Apache-2.0
